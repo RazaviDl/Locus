@@ -376,9 +376,6 @@ h5{
 
 .block-contact{
     margin-top: 245px;
-}
-
-.contact{
     display: flex;
     justify-content: space-between;
 }
