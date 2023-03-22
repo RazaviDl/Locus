@@ -40,7 +40,7 @@ h1{
     margin: 0;
 }
 
-section, header, .footer-inner{
+main, header, .footer-inner{
     max-width: 1588px;
     width: 100%;
     margin: 0 auto;
@@ -219,7 +219,7 @@ h3{
     transition: all 0.3s;
 }
 
-.about-mission{
+.block-2{
     display: flex;
     margin-top: 150px;
 }
