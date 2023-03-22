@@ -40,8 +40,9 @@ h1{
     margin: 0;
 }
 
-.container{
+section, header, .footer-inner{
     max-width: 1588px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -67,7 +68,6 @@ h1{
     font-weight: 800;
     font-size: 16px;
     line-height: 24px;
-
     margin: 0 0 0 14px;
 }
 
