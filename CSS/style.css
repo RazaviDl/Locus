@@ -164,6 +164,7 @@ h3{
 }
 
 .bl1-source img{
+    display: block;
     width: 100%;
 }
 
